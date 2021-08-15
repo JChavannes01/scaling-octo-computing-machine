@@ -1,0 +1,18 @@
+table.settings {
+    width: 47%;
+    display: inline-table;
+}
+
+table.settings.right {
+    margin-left: 6%;
+}
+
+table.settings td.label {
+    width: 67%;
+}
+
+table.settings td {
+    width: 33%;
+}
+
+table.settings input { width: 100%; }
